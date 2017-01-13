@@ -15,4 +15,4 @@
 6. 直播底部显示送心的特效（这里用了第三方的 tyrant:heartlayout）；
 7. VedioView播放视频；
 
-详情请见： [简书博客](https://github.com/wenzhihao123/Android-rxjava-retrofit-okhttp-app)  
+详情请见： [简书博客](http://www.jianshu.com/p/c1ef4d49e08d)  
