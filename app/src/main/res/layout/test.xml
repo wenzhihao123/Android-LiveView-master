@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <cm.wzh.live.view.GiftLayoutView
+        android:id="@+id/gift_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </cm.wzh.live.view.GiftLayoutView>
+    <Button
+        android:id="@+id/send"
+        android:text="add"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/send1"
+        android:text="nextadd"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>
